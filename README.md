@@ -1,4 +1,4 @@
-# exercicioFuncoes-Bootcamp-Back-End-Python-e-Django
+#exercicio Funcoes-Bootcamp-Back-End-Python-e-Django
 WoMakersCode
 Semana 02: Conceitos básicos de Python
 Exercícios: Funções
