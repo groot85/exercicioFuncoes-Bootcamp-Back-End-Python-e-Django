@@ -1,1 +1,2 @@
-print("Ana")
+ana = 23
+print("Ana", ana)
